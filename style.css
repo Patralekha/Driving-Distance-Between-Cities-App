@@ -1,0 +1,31 @@
+body{
+    background: url(new-york-city-336475_960_720.jpg) center center fixed;
+    background-size: cover;
+    color:azure;
+    font-family:cursive sans-serif;
+}
+.jumbotron{
+    background-color:transparent;
+    margin:0;
+    padding:10px; 
+}
+
+.jumbotron h1{
+    letter-spacing: :2px;
+}
+
+.jumbotron h1 , .jumbotron p{
+    text-align: center;
+}
+
+#map{
+    width:100%;
+    height:400px;
+    margin:40px auto;
+}
+
+#output{
+    text-align: center;
+    font-size: 2.2em;
+    margin: 20px auto;
+}
